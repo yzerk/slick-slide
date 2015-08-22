@@ -1,3 +1,5 @@
+This repository is the copy of DrMabuse23/yii2-slick except of hardcoded slick-slide version in composer.json
+
 yii2-slick
 ==========
 
