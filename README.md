@@ -6,10 +6,10 @@ yii2-slick
 The yii2 widget to the fantastic slick-carousel. This widget generate you the only the javascript.
 
 ###Installation Composer
-    drmabuse/yii2-slick-carousel:"*"
+    yzerkal/slick-slide:"*"
 
 ### Installation Assets Bower
-    cd vendor/drmabuse/yii2-slick-carousel/web
+    cd vendor/yzerkal/slick-slide/web
 
     bower install
 
